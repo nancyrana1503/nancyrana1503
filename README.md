@@ -14,17 +14,13 @@
 ---
 
 💻 Tech Stack  
-**Languages & Scripting:** Python, PowerShell, HTML5, JavaScript, Objective-C, C, C++  
-**Frameworks & Tools:** Django, TailwindCSS, Keras, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Scipy  
-**Web & CMS:** PHP, Joomla, WordPress, Apache, Apache Tomcat  
-**Cloud & Platforms:** AWS, Azure, GitHub Actions  
-**Database:** MongoDB, MySQL  
-**Design:** Adobe Illustrator, Canva  
-**Environment:** Windows Terminal  
+Languages & Scripting: CSS, PowerShell, HTML5, JavaScript, Objective-C, C, C++  
+Database: MySQL  
+Environment: Windows Terminal  
 
 ---
 
-📊 **GitHub Stats**  
+📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
@@ -34,4 +30,3 @@
 
 ---
 
-Would you like me to help you make a README with this for your GitHub profile? I can even add GitHub widgets like top languages or streak stats if you want.
