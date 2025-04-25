@@ -1,10 +1,10 @@
-💫 About Me
+# 💫 About Me
 
-👩‍💻 Hi, I'm Nancy Rana — an aspiring developer passionate about coding and creative problem-solving.
-🎓 Studying Computer Programming at Seneca College
-🌍 Based in Toronto, Canada
-🤖 Fascinated by AI, backend dev, and building real-world solutions
-☕ Runs on coffee and curiosity
+*👩‍💻 Hi, I'm Nancy Rana — an aspiring developer passionate about coding and creative problem-solving.
+*🎓 Studying Computer Programming at Seneca College
+*🌍 Based in Toronto, Canada
+*🤖 Fascinated by AI, backend dev, and building real-world solutions
+*☕ Runs on coffee and curiosity
 
 ---
 
@@ -15,9 +15,9 @@
 ---
 
 💻 Tech Stack  
-Languages & Scripting: CSS, PowerShell, HTML5, JavaScript, Objective-C, C, C++  
-Database: MySQL  
-Environment: Windows Terminal  
+*Languages & Scripting: CSS, PowerShell, HTML5, JavaScript, Objective-C, C, C++  
+*Database: MySQL  
+*Environment: Windows Terminal  
 
 ---
 
