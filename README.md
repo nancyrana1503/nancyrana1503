@@ -1,7 +1,7 @@
 💫 About Me
 
 👩‍💻 Hi, I'm Nancy Rana — an aspiring developer passionate about coding and creative problem-solving.
-                            🎓 Studying Computer Programming at Seneca College
+🎓 Studying Computer Programming at Seneca College
 🌍 Based in Toronto, Canada
 🤖 Fascinated by AI, backend dev, and building real-world solutions
 ☕ Runs on coffee and curiosity
