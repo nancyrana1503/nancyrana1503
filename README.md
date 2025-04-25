@@ -8,27 +8,27 @@
 
 ---
 
-🌐 Socials
+## 🌐 Socials
 
 [Instagram](https://www.instagram.com/_hy_neensee_/) | [LinkedIn](https://www.linkedin.com/in/nancy-rana-b4888828a/)
 
 ---
 
-💻 Tech Stack  
+## 💻 Tech Stack  
 * Languages & Scripting: CSS, PowerShell, HTML5, JavaScript, Objective-C, C, C++  
 * Database: MySQL  
 * Environment: Windows Terminal  
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 
 
 
 ---
 
-✍️ **Random Dev Quote**  
+## ✍️ **Random Dev Quote**  
 
 *"First, solve the problem. Then, write the code."* – John Johnson
 
